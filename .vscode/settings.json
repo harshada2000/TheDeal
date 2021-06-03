@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.activityBar.visible": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.zoomLevel": 0,
+    "html.suggest.html5": true,
+    "files.associations":  { "*.html": "html" },
+    
+}
